@@ -8,9 +8,6 @@ Before setting up and running the sample games, download the entire repository t
 # Games
 
 ### Falling box
-
-![Falling box](/previews/falling-box.gif "Falling box")
-
 A hyper-casual game where you have to toss a box and not let it fall. This game uses user authorization and competition tables to save the player's current achievement and restore it the next time they log in. When you lose, ads are displayed.
 
 #### Instructions 
