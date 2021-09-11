@@ -8,10 +8,9 @@ Before setting up and running the sample games, download the entire repository t
 # Games
 
 ### Falling box
-A hyper-casual game where you have to toss a box and not let it fall. This game uses user authorization and competition tables to save the player's current achievement and restore it the next time they log in. When you lose, ads are displayed.
-
-###### Used features
 Player details / Manage ads / Competition tables
+
+A hyper-casual game where you have to toss a box and not let it fall. This game uses user authorization and competition tables to save the player's current achievement and restore it the next time they log in. When you lose, ads are displayed.
 
 #### Instructions 
 This game displays ads, so make sure you have monetization enabled. Follow [this instruction in the official documentation](https://yandex.ru/dev/games/doc/dg/console/enable-monetization.html) to enable monetization and display ads.
